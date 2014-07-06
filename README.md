@@ -15,7 +15,7 @@ clandestiny is a library for rendezvous hashing which has the goal of simple
 clients and ease of use.
 
 Currently targetting for support:
-  - Python 2.4 through Python 3.4
+  - Python 2.5 through Python 3.4
   - Ruby 1.8.6 through Ruby 2.1.x
 
 ## characteristics
