@@ -1,5 +1,5 @@
-clandestiny
-===========
+clandestined
+============
 
 rendezvous hashing implementation based on murmur3 hash
 
@@ -11,12 +11,12 @@ cluster of machines. consistent hashing and rendezvous hashing are methods of
 performing this task, while minimizing data movement on cluster topology
 changes.
 
-clandestiny is a library for rendezvous hashing which has the goal of simple
+clandestined is a library for rendezvous hashing which has the goal of simple
 clients and ease of use.
 
 implementations:
-  - [Python](https://github.com/ewdurbin/clandestiny-python)
-  - [Ruby](https://github.com/ewdurbin/clandestiny-ruby)
+  - [Python](https://github.com/ewdurbin/clandestined-python)
+  - [Ruby](https://github.com/ewdurbin/clandestined-ruby)
 
 ## characteristics
 
